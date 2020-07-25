@@ -1,7 +1,7 @@
-MBMESN_hardware.c:6:22:MBMESN_serialCommInit	0	static
-MBMESN_hardware.c:14:22:MBMESN_serialCommClose	0	static
-MBMESN_hardware.c:19:22:MBMESN_serialCommWrite	8	static
-MBMESN_hardware.c:29:22:MBMESN_serialCommRead	32	dynamic
-MBMESN_hardware.c:64:6:HAL_UART_TxCpltCallback	8	static
-MBMESN_hardware.c:68:6:HAL_UART_RxCpltCallback	0	static
-MBMESN_hardware.c:71:1:HAL_UART_AbortReceiveCpltCallback	0	static
+MBMESN_hardware.c:11:22:MBMESN_serialCommInit	0	static
+MBMESN_hardware.c:19:22:MBMESN_serialCommClose	0	static
+MBMESN_hardware.c:24:22:MBMESN_serialCommWrite	8	static
+MBMESN_hardware.c:37:22:MBMESN_serialCommRead	48	static
+MBMESN_hardware.c:89:6:HAL_UART_TxCpltCallback	8	static
+MBMESN_hardware.c:93:6:HAL_UART_RxCpltCallback	0	static
+MBMESN_hardware.c:96:1:HAL_UART_AbortReceiveCpltCallback	0	static

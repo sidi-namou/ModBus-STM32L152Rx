@@ -6,6 +6,7 @@
  */
 
 #include "MBMESN_slavepdu.h"
+
 MBMESN_errorstatus_t HandleMBFunction06(uint8_t * requestParameters, uint8_t * responseParameters, uint16_t * lengthOfResponsParameters)
 {
 

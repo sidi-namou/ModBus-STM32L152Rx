@@ -1,0 +1,3 @@
+MBMESN_slavepdu.c:10:22:HandleMBFunction06	12	static
+MBMESN_slavepdu.c:51:22:HandleMBFunction03	12	static
+MBMESN_slavepdu.c:92:22:HandleMBFunction16	20	static

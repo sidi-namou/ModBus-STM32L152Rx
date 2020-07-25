@@ -1,0 +1,3 @@
+MBMESN_modbusrtu.c:16:17:MBMESN_computeCRC	12	static
+MBMESN_modbusrtu.c:39:22:HandleMBRequest	24	static
+MBMESN_modbusrtu.c:98:22:BuildMBResponse	24	static
